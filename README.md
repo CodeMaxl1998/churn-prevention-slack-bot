@@ -7,7 +7,7 @@ A Slack workflow bot that helps teams prevent churn:
 4) Initiator finalizes status (accepted/declined) in Slack
 
 ## Demo
-(Add screenshots/GIF here)
+![Demo](docs/demo.gif)
 
 ## Local Setup
 1. Create `.env` from `.env.example`
